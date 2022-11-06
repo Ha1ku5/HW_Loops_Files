@@ -1,6 +1,13 @@
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+/*
+    This program reads a file containing information about a course, and prints it out in a better format
+    as well as calculating some averages
+
+    @author Alex Leatha
+    @version 11/6/22
+ */
 
 public class HW_Loops_Files {
     public static void main(String[] args) {
